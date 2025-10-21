@@ -1,0 +1,7 @@
+name: compression_env
+channels:
+  - conda-forge
+dependencies:
+  - python=3.11
+  - click
+  - zstandard
